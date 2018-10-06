@@ -286,3 +286,5 @@ https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/4/html/Se
 1. Komputer di subnet MENANGGAL tidak diizinkan mengakses server BENOWO
 2. Komputer di subnet KERTAJAYA tidak dapat mengakses komputer di subnet MENANGGAL pada pukul 10.00 - 19.00
 3. Block port 80 agar BENOWO tidak bisa mengakses HTTP
+
+![Topologi](/img/topologi.png)
